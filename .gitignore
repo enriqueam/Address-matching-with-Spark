@@ -1,4 +1,5 @@
 # Data
-data/*
-models/*
+data
+models
 adress_matching_spark
+env_address_matching

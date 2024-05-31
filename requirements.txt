@@ -30,6 +30,7 @@ google-auth==2.29.0
 googleapis-common-protos==1.63.0
 grpcio==1.62.1
 h11==0.14.0
+haversine==2.8.1
 httpcore==1.0.4
 httptools==0.6.1
 httpx==0.27.0
@@ -144,5 +145,6 @@ watchfiles==0.21.0
 wcwidth==0.2.13
 websocket-client==1.7.0
 websockets==12.0
+wordcloud==1.9.3
 wrapt==1.16.0
 zipp==3.18.1
