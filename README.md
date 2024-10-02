@@ -15,5 +15,3 @@ The work is based on a database provided by the Canary Islands Institute of Stat
 Throughout the project, significant challenges related to resource management and computational efficiency have been faced. Various configurations of Apache Spark have been experimented with to optimize system performance and handle large volumes of data without exceeding memory limitations.
 
 Finally, an exhaustive analysis of the obtained results has been conducted, identifying areas for improvement and possible directions for future research.
-
-This repository includes the source code, preprocessing scripts, Apache Spark configurations, and the models used for the processing and analysis of postal addresses. We hope this work contributes to the development of more efficient techniques for the association of postal addresses and the handling of large data volumes in the field of natural language processing.
